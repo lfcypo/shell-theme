@@ -28,3 +28,9 @@ notepad $PROFILE
 ```shell
 oh-my-posh init pwsh --config <路径>\share121.json | Invoke-Expression
 ```
+
+## 鸣谢
+
+修改自
+[jtracey93](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/jtracey93.omp.json)
+的主题
