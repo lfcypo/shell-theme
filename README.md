@@ -1,4 +1,4 @@
-# share121 shell 主题
+# share121 的 shell 主题
 
 ## 安装 Oh My Posh
 
