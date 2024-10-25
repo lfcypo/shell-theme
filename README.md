@@ -1,5 +1,7 @@
 # share121 的 shell 主题
 
+![](./share121.png)
+
 ## 安装 Oh My Posh
 
 https://ohmyposh.dev/
