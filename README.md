@@ -23,10 +23,10 @@ notepad $PROFILE
 > New-Item -Path $PROFILE -Type File -Force
 > ```
 
-#### 添加以下内容
+### 添加以下内容
 
 ```shell
-oh-my-posh init pwsh --config <路径>\share121.json | Invoke-Expression
+oh-my-posh init pwsh --config https://gh.llkk.cc/https://github.com/share121/shell-theme/raw/refs/heads/main/share121.json | Invoke-Expression
 ```
 
 ## 鸣谢
